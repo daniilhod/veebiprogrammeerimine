@@ -28,6 +28,8 @@ $fullTimeNow = date("d/m/Y H:i:s"); #suur Y et saada 2019 mitte 19
 		  <p><font size="6">UPD: kodutöö, muutsin tausta ja teksti suuruse!</font> </p>
 		  <p><font size = "6">Kasutame php serverit, mille kohta saab infot <a href="serverinfo.php">siit</a>!</font> </p>
 		  <p><font size = "6"> Meie esimene php programm on <a href = "try.php"> siin </a>!</font> </p> 
-		 
+		
+
+		<hr> 
 		</body>
 </html>
