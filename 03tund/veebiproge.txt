@@ -1,0 +1,26 @@
+php = PhpHypertextPre-Processor
+
+
+linux käske
+
+ls - näitab kataloogi sisu
+ls -a <--- see on võti, et näha detailsemalt
+cd (change directory) - liikuine mingisse kataloogi
+pwd - print working directiry - näitab mis kataloogis oled kui eksid ära
+cd .. - tuleb kataloogist välja 
+_________________________________________________________________________
+
+github repositooriumi kloonimine 
+
+Github annab lingi:
+
+https://github.com/daniilhod/veebiprogrammeerimine.git
+
+https://daniilhod@github.com/daniilhod/veebiprogrammeerimine.git  <--- minu enda link 
+
+millise repoga seotud?
+git remote -v 
+
+inimese nime määramine - git config user.name "Daniil Hodakovski"
+
+githubi emaili määramine - git config user.email daniilhod@users.noreply.github.com
